@@ -1,0 +1,5 @@
+exclude:
+  - docker-compose.yml
+#show_drafts: true
+#future: true
+timezone: Pacific/Auckland
